@@ -113,5 +113,5 @@ python main.py
 `resources/native/` 下的两个 DLL。
 ## 文档
 
-- [技术博客：从截图到答案](docs/blog.md)
+- [技术博客：从截图到答案](https://blog.cqjszx.cn)
 - [训练与模型导出](rapidocr_train/README.md)
