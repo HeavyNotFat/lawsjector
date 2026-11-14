@@ -1,0 +1,7 @@
+Pillow>=10.0
+
+# 可选：没有原生模型时的兜底 OCR（打包时被 excludes 排除）
+rapidocr-onnxruntime==1.4.4
+
+# 可选：Windows 自带 OCR 兜底
+winsdk

@@ -218,3 +218,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LawsJector
+!build_exe.spec
+resources/models/*.onnx
+resources/models/*.txt
+resources/native/*.dll
+native/third_party/
+rapidocr_train/.venv/
+rapidocr_train/configs/
+rapidocr_train/data/
+rapidocr_train/logs/
+rapidocr_train/output/
+rapidocr_train/pretrained/
+rapidocr_train/third_party/
+*.pdparams
+*.pdopt
